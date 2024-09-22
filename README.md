@@ -20,14 +20,12 @@ Are you eager to launch your own Hamster Kombat clone but want to avoid the high
 - Supports multiple blockchain networks, including: Ethereum, BSC (BNB Chain), Solana, Polygon, and Telegram's native chain, The Open Network (TON). Custom chain on request.
 - <b>Additional options can be developed on request</b>
 
-![Telegram Tap-to-Earn Sample Mockup](/images/3.jpg "Telegram Tap-to-Earn Game Mockup | GitHub")
 
 
 
 ## Pricing
 Our Hamster Kombat Tap-to-Earn Game Clone is offered with three pricing tiers:
 
-[![CommunityJuice Special Offers](/images/5.jpg)](mailto:gm@communityjuice.xyz)
 
 Contact us to find out more about our pricing options and to discuss a custom package that meets your specific requirements.
 
@@ -35,9 +33,9 @@ Contact us to find out more about our pricing options and to discuss a custom pa
 
 Contact us, and we'll answer all your questions and explain your potential game in detail:
 
-- <a href="https://t.me/communityjuicelabs" target="_blank">Telegram Channel</a>
-- [Our Email](mailto:gm@communityjuice.xyz)
-- <a href="https://communityjuice.xyz" target="_blank">Website</a>
+- <a href="https://t.me/aniteamx_hub" target="_blank">Telegram Channel</a>
+- [Our Email]()
+- <a href="" target="_blank">Website</a>
 
 
 ## Frequently asked questions
