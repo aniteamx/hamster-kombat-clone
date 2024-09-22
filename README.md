@@ -3,7 +3,7 @@
 ### Hamster Kombat Tap-to-Earn Game | Telegram Mini App
 Are you eager to launch your own Hamster Kombat clone but want to avoid the high costs and time commitment of development and maintenance? Look no further! CommunityJuice is here to assist with your product implementation so you can concentrate on marketing and sales.
 
-![Hamster Kombat Clone GitHub Image](/New Project (1).png "White Label Hamster Kombat | GitHub")
+https://github.com/aniteamx/hamster-kombat-clone/blob/d694c20d6863518d40d54386d769cc0dde419994/New%20Project%20(1).png
 
 ![Telegram Tap-to-Earn Games GitHub Image](/images/2.jpg "Telegram Tap-to-Earn Games | GitHub")
 
