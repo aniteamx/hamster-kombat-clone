@@ -5,7 +5,7 @@ Are you eager to launch your own Hamster Kombat clone but want to avoid the high
 
 https://github.com/aniteamx/hamster-kombat-clone/blob/d694c20d6863518d40d54386d769cc0dde419994/New%20Project%20(1).png
 
-![Telegram Tap-to-Earn Games GitHub Image](/images/2.jpg "Telegram Tap-to-Earn Games | GitHub")
+![Telegram Tap-to-Earn Games GitHub Image](https://github.com/aniteamx/hamster-kombat-clone/blob/d694c20d6863518d40d54386d769cc0dde419994/New%20Project%20(1).png "Telegram Tap-to-Earn Games | GitHub")
 
 ## Functionality
 ### Available options
